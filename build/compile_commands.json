@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shankar/Shiva/cs1010/build",
-  "command": "/usr/bin/gcc   -g -o CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S01P01/skeleton/freezer.c.o -c /home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S01P01/skeleton/freezer.c",
-  "file": "/home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S01P01/skeleton/freezer.c"
+  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o -c /home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c",
+  "file": "/home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c"
 }
 ]
