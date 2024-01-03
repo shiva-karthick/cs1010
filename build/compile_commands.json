@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shankar/Shiva/cs1010/build",
-  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o -c /home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c",
-  "file": "/home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c"
+  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Lecture-Notes/permutation.c.o -c /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c",
+  "file": "/home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c"
 }
 ]

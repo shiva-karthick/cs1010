@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c" "CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o" "gcc" "CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o.d"
+  "/home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c" "CMakeFiles/main.dir/Lecture-Notes/permutation.c.o" "gcc" "CMakeFiles/main.dir/Lecture-Notes/permutation.c.o.d"
   )
 
 # Targets to which this target links.

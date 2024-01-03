@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.o: Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.o
+Lecture-Notes/permutation.o: Lecture-Notes/permutation.c.o
+.PHONY : Lecture-Notes/permutation.o
 
 # target to build an object file
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.o
+Lecture-Notes/permutation.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.o
+.PHONY : Lecture-Notes/permutation.c.o
 
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.i: Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.i
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.i
+Lecture-Notes/permutation.i: Lecture-Notes/permutation.c.i
+.PHONY : Lecture-Notes/permutation.i
 
 # target to preprocess a source file
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.i
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.i
+Lecture-Notes/permutation.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.i
+.PHONY : Lecture-Notes/permutation.c.i
 
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.s: Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.s
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.s
+Lecture-Notes/permutation.s: Lecture-Notes/permutation.c.s
+.PHONY : Lecture-Notes/permutation.s
 
 # target to generate assembly for a file
-Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.s
-.PHONY : Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c.s
+Lecture-Notes/permutation.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.s
+.PHONY : Lecture-Notes/permutation.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.o"
-	@echo "... Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.i"
-	@echo "... Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.s"
+	@echo "... Lecture-Notes/permutation.o"
+	@echo "... Lecture-Notes/permutation.i"
+	@echo "... Lecture-Notes/permutation.s"
 .PHONY : help
 
 

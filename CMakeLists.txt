@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(mastering_c)
-add_executable(main /home/shankar/Shiva/cs1010/Practice-Exercises-AY1718/Practice-S11P03/Practice-S11P03/skeleton/tiles.c)
-
+add_executable(main /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c)
 add_compile_options(-Wall -Wextra -Wpedantic -g)
 
 # static library
