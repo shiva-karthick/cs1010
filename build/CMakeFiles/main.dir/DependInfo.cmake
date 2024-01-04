@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c" "CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o" "gcc" "CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o.d"
+  "/home/shankar/Shiva/cs1010/Discussion-questions/week11/q7.c" "CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o" "gcc" "CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o.d"
   )
 
 # Targets to which this target links.

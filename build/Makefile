@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Discussion-questions/week12/q6.o: Discussion-questions/week12/q6.c.o
-.PHONY : Discussion-questions/week12/q6.o
+Discussion-questions/week11/q7.o: Discussion-questions/week11/q7.c.o
+.PHONY : Discussion-questions/week11/q7.o
 
 # target to build an object file
-Discussion-questions/week12/q6.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o
-.PHONY : Discussion-questions/week12/q6.c.o
+Discussion-questions/week11/q7.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o
+.PHONY : Discussion-questions/week11/q7.c.o
 
-Discussion-questions/week12/q6.i: Discussion-questions/week12/q6.c.i
-.PHONY : Discussion-questions/week12/q6.i
+Discussion-questions/week11/q7.i: Discussion-questions/week11/q7.c.i
+.PHONY : Discussion-questions/week11/q7.i
 
 # target to preprocess a source file
-Discussion-questions/week12/q6.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.i
-.PHONY : Discussion-questions/week12/q6.c.i
+Discussion-questions/week11/q7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.i
+.PHONY : Discussion-questions/week11/q7.c.i
 
-Discussion-questions/week12/q6.s: Discussion-questions/week12/q6.c.s
-.PHONY : Discussion-questions/week12/q6.s
+Discussion-questions/week11/q7.s: Discussion-questions/week11/q7.c.s
+.PHONY : Discussion-questions/week11/q7.s
 
 # target to generate assembly for a file
-Discussion-questions/week12/q6.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.s
-.PHONY : Discussion-questions/week12/q6.c.s
+Discussion-questions/week11/q7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.s
+.PHONY : Discussion-questions/week11/q7.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Discussion-questions/week12/q6.o"
-	@echo "... Discussion-questions/week12/q6.i"
-	@echo "... Discussion-questions/week12/q6.s"
+	@echo "... Discussion-questions/week11/q7.o"
+	@echo "... Discussion-questions/week11/q7.i"
+	@echo "... Discussion-questions/week11/q7.s"
 .PHONY : help
 
 
