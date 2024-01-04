@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shankar/Shiva/cs1010/build",
-  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Lecture-Notes/permutation.c.o -c /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c",
-  "file": "/home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c"
+  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o -c /home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c",
+  "file": "/home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c"
 }
 ]

@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Lecture-Notes/permutation.o: Lecture-Notes/permutation.c.o
-.PHONY : Lecture-Notes/permutation.o
+Discussion-questions/week12/q6.o: Discussion-questions/week12/q6.c.o
+.PHONY : Discussion-questions/week12/q6.o
 
 # target to build an object file
-Lecture-Notes/permutation.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.o
-.PHONY : Lecture-Notes/permutation.c.o
+Discussion-questions/week12/q6.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o
+.PHONY : Discussion-questions/week12/q6.c.o
 
-Lecture-Notes/permutation.i: Lecture-Notes/permutation.c.i
-.PHONY : Lecture-Notes/permutation.i
+Discussion-questions/week12/q6.i: Discussion-questions/week12/q6.c.i
+.PHONY : Discussion-questions/week12/q6.i
 
 # target to preprocess a source file
-Lecture-Notes/permutation.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.i
-.PHONY : Lecture-Notes/permutation.c.i
+Discussion-questions/week12/q6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.i
+.PHONY : Discussion-questions/week12/q6.c.i
 
-Lecture-Notes/permutation.s: Lecture-Notes/permutation.c.s
-.PHONY : Lecture-Notes/permutation.s
+Discussion-questions/week12/q6.s: Discussion-questions/week12/q6.c.s
+.PHONY : Discussion-questions/week12/q6.s
 
 # target to generate assembly for a file
-Lecture-Notes/permutation.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Lecture-Notes/permutation.c.s
-.PHONY : Lecture-Notes/permutation.c.s
+Discussion-questions/week12/q6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week12/q6.c.s
+.PHONY : Discussion-questions/week12/q6.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Lecture-Notes/permutation.o"
-	@echo "... Lecture-Notes/permutation.i"
-	@echo "... Lecture-Notes/permutation.s"
+	@echo "... Discussion-questions/week12/q6.o"
+	@echo "... Discussion-questions/week12/q6.i"
+	@echo "... Discussion-questions/week12/q6.s"
 .PHONY : help
 
 

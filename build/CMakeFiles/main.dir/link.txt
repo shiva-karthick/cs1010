@@ -1,1 +1,1 @@
-/usr/bin/clang-17 -g CMakeFiles/main.dir/Lecture-Notes/permutation.c.o -o main  ../lib/libcs1010.a -lm 
+/usr/bin/clang-17 -g CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o -o main  ../lib/libcs1010.a -lm 

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(mastering_c)
-add_executable(main /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c)
+add_executable(main /home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c)
 add_compile_options(-Wall -Wextra -Wpedantic -g)
 
 # static library

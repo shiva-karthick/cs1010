@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/Lecture-Notes/permutation.c.o"
-  "CMakeFiles/main.dir/Lecture-Notes/permutation.c.o.d"
+  "CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o"
+  "CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o.d"
   "main"
   "main.pdb"
 )

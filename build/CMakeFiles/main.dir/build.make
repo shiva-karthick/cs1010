@@ -69,28 +69,28 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
-CMakeFiles/main.dir/Lecture-Notes/permutation.c.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/Lecture-Notes/permutation.c.o: ../Lecture-Notes/permutation.c
-CMakeFiles/main.dir/Lecture-Notes/permutation.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shankar/Shiva/cs1010/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/Lecture-Notes/permutation.c.o"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/Lecture-Notes/permutation.c.o -MF CMakeFiles/main.dir/Lecture-Notes/permutation.c.o.d -o CMakeFiles/main.dir/Lecture-Notes/permutation.c.o -c /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c
+CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o: ../Discussion-questions/week12/q6.c
+CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shankar/Shiva/cs1010/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o -MF CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o.d -o CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o -c /home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c
 
-CMakeFiles/main.dir/Lecture-Notes/permutation.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/Lecture-Notes/permutation.c.i"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c > CMakeFiles/main.dir/Lecture-Notes/permutation.c.i
+CMakeFiles/main.dir/Discussion-questions/week12/q6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/Discussion-questions/week12/q6.c.i"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c > CMakeFiles/main.dir/Discussion-questions/week12/q6.c.i
 
-CMakeFiles/main.dir/Lecture-Notes/permutation.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/Lecture-Notes/permutation.c.s"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shankar/Shiva/cs1010/Lecture-Notes/permutation.c -o CMakeFiles/main.dir/Lecture-Notes/permutation.c.s
+CMakeFiles/main.dir/Discussion-questions/week12/q6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/Discussion-questions/week12/q6.c.s"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shankar/Shiva/cs1010/Discussion-questions/week12/q6.c -o CMakeFiles/main.dir/Discussion-questions/week12/q6.c.s
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/Lecture-Notes/permutation.c.o"
+"CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-main: CMakeFiles/main.dir/Lecture-Notes/permutation.c.o
+main: CMakeFiles/main.dir/Discussion-questions/week12/q6.c.o
 main: CMakeFiles/main.dir/build.make
 main: ../lib/libcs1010.a
 main: CMakeFiles/main.dir/link.txt
