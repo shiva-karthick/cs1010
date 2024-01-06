@@ -1,1 +1,1 @@
-/usr/bin/clang-17 -g CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o -o main  ../lib/libcs1010.a -lm 
+/usr/bin/clang-17 -g CMakeFiles/main.dir/PE2/1718S1/q2.c.o -o main  ../lib/libcs1010.a -lm 

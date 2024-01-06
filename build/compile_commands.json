@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shankar/Shiva/cs1010/build",
-  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o -c /home/shankar/Shiva/cs1010/Discussion-questions/week11/q7.c",
-  "file": "/home/shankar/Shiva/cs1010/Discussion-questions/week11/q7.c"
+  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/PE2/1718S1/q2.c.o -c /home/shankar/Shiva/cs1010/PE2/1718S1/q2.c",
+  "file": "/home/shankar/Shiva/cs1010/PE2/1718S1/q2.c"
 }
 ]

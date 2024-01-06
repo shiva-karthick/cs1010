@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o"
-  "CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o.d"
+  "CMakeFiles/main.dir/PE2/1718S1/q2.c.o"
+  "CMakeFiles/main.dir/PE2/1718S1/q2.c.o.d"
   "main"
   "main.pdb"
 )

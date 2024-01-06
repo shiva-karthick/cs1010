@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Discussion-questions/week11/q7.o: Discussion-questions/week11/q7.c.o
-.PHONY : Discussion-questions/week11/q7.o
+PE2/1718S1/q2.o: PE2/1718S1/q2.c.o
+.PHONY : PE2/1718S1/q2.o
 
 # target to build an object file
-Discussion-questions/week11/q7.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.o
-.PHONY : Discussion-questions/week11/q7.c.o
+PE2/1718S1/q2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.o
+.PHONY : PE2/1718S1/q2.c.o
 
-Discussion-questions/week11/q7.i: Discussion-questions/week11/q7.c.i
-.PHONY : Discussion-questions/week11/q7.i
+PE2/1718S1/q2.i: PE2/1718S1/q2.c.i
+.PHONY : PE2/1718S1/q2.i
 
 # target to preprocess a source file
-Discussion-questions/week11/q7.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.i
-.PHONY : Discussion-questions/week11/q7.c.i
+PE2/1718S1/q2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.i
+.PHONY : PE2/1718S1/q2.c.i
 
-Discussion-questions/week11/q7.s: Discussion-questions/week11/q7.c.s
-.PHONY : Discussion-questions/week11/q7.s
+PE2/1718S1/q2.s: PE2/1718S1/q2.c.s
+.PHONY : PE2/1718S1/q2.s
 
 # target to generate assembly for a file
-Discussion-questions/week11/q7.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Discussion-questions/week11/q7.c.s
-.PHONY : Discussion-questions/week11/q7.c.s
+PE2/1718S1/q2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.s
+.PHONY : PE2/1718S1/q2.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Discussion-questions/week11/q7.o"
-	@echo "... Discussion-questions/week11/q7.i"
-	@echo "... Discussion-questions/week11/q7.s"
+	@echo "... PE2/1718S1/q2.o"
+	@echo "... PE2/1718S1/q2.i"
+	@echo "... PE2/1718S1/q2.s"
 .PHONY : help
 
 
