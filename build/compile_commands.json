@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/shankar/Shiva/cs1010/build",
-  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Exam/main.c.o -c /home/shankar/Shiva/cs1010/Exam/main.c",
-  "file": "/home/shankar/Shiva/cs1010/Exam/main.c"
+  "command": "/usr/bin/clang-17  -I/home/shankar/Shiva/cs1010/include -g -o CMakeFiles/main.dir/Exam/AY11-12-S1.c.o -c /home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c",
+  "file": "/home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c"
 }
 ]

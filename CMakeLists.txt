@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(mastering_c)
-add_executable(main /home/shankar/Shiva/cs1010/Exam/main.c)
+add_executable(main /home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c)
 add_compile_options(-Wall -Wextra -Wpedantic -g)
 
 # static library

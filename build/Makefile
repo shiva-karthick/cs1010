@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Exam/main.o: Exam/main.c.o
-.PHONY : Exam/main.o
+Exam/AY11-12-S1.o: Exam/AY11-12-S1.c.o
+.PHONY : Exam/AY11-12-S1.o
 
 # target to build an object file
-Exam/main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.o
-.PHONY : Exam/main.c.o
+Exam/AY11-12-S1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/AY11-12-S1.c.o
+.PHONY : Exam/AY11-12-S1.c.o
 
-Exam/main.i: Exam/main.c.i
-.PHONY : Exam/main.i
+Exam/AY11-12-S1.i: Exam/AY11-12-S1.c.i
+.PHONY : Exam/AY11-12-S1.i
 
 # target to preprocess a source file
-Exam/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.i
-.PHONY : Exam/main.c.i
+Exam/AY11-12-S1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/AY11-12-S1.c.i
+.PHONY : Exam/AY11-12-S1.c.i
 
-Exam/main.s: Exam/main.c.s
-.PHONY : Exam/main.s
+Exam/AY11-12-S1.s: Exam/AY11-12-S1.c.s
+.PHONY : Exam/AY11-12-S1.s
 
 # target to generate assembly for a file
-Exam/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.s
-.PHONY : Exam/main.c.s
+Exam/AY11-12-S1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/AY11-12-S1.c.s
+.PHONY : Exam/AY11-12-S1.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Exam/main.o"
-	@echo "... Exam/main.i"
-	@echo "... Exam/main.s"
+	@echo "... Exam/AY11-12-S1.o"
+	@echo "... Exam/AY11-12-S1.i"
+	@echo "... Exam/AY11-12-S1.s"
 .PHONY : help
 
 

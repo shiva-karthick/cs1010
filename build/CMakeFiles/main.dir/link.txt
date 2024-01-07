@@ -1,1 +1,1 @@
-/usr/bin/clang-17 -g CMakeFiles/main.dir/Exam/main.c.o -o main  ../lib/libcs1010.a -lm 
+/usr/bin/clang-17 -g CMakeFiles/main.dir/Exam/AY11-12-S1.c.o -o main  ../lib/libcs1010.a -lm 

@@ -69,28 +69,28 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
-CMakeFiles/main.dir/Exam/main.c.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/Exam/main.c.o: ../Exam/main.c
-CMakeFiles/main.dir/Exam/main.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shankar/Shiva/cs1010/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/Exam/main.c.o"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/Exam/main.c.o -MF CMakeFiles/main.dir/Exam/main.c.o.d -o CMakeFiles/main.dir/Exam/main.c.o -c /home/shankar/Shiva/cs1010/Exam/main.c
+CMakeFiles/main.dir/Exam/AY11-12-S1.c.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Exam/AY11-12-S1.c.o: ../Exam/AY11-12-S1.c
+CMakeFiles/main.dir/Exam/AY11-12-S1.c.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shankar/Shiva/cs1010/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/Exam/AY11-12-S1.c.o"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/Exam/AY11-12-S1.c.o -MF CMakeFiles/main.dir/Exam/AY11-12-S1.c.o.d -o CMakeFiles/main.dir/Exam/AY11-12-S1.c.o -c /home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c
 
-CMakeFiles/main.dir/Exam/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/Exam/main.c.i"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shankar/Shiva/cs1010/Exam/main.c > CMakeFiles/main.dir/Exam/main.c.i
+CMakeFiles/main.dir/Exam/AY11-12-S1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/Exam/AY11-12-S1.c.i"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c > CMakeFiles/main.dir/Exam/AY11-12-S1.c.i
 
-CMakeFiles/main.dir/Exam/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/Exam/main.c.s"
-	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shankar/Shiva/cs1010/Exam/main.c -o CMakeFiles/main.dir/Exam/main.c.s
+CMakeFiles/main.dir/Exam/AY11-12-S1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/Exam/AY11-12-S1.c.s"
+	/usr/bin/clang-17 $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/shankar/Shiva/cs1010/Exam/AY11-12-S1.c -o CMakeFiles/main.dir/Exam/AY11-12-S1.c.s
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/Exam/main.c.o"
+"CMakeFiles/main.dir/Exam/AY11-12-S1.c.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-main: CMakeFiles/main.dir/Exam/main.c.o
+main: CMakeFiles/main.dir/Exam/AY11-12-S1.c.o
 main: CMakeFiles/main.dir/build.make
 main: ../lib/libcs1010.a
 main: CMakeFiles/main.dir/link.txt
