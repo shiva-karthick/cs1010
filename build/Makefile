@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-PE2/1718S1/q2.o: PE2/1718S1/q2.c.o
-.PHONY : PE2/1718S1/q2.o
+Exam/main.o: Exam/main.c.o
+.PHONY : Exam/main.o
 
 # target to build an object file
-PE2/1718S1/q2.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.o
-.PHONY : PE2/1718S1/q2.c.o
+Exam/main.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.o
+.PHONY : Exam/main.c.o
 
-PE2/1718S1/q2.i: PE2/1718S1/q2.c.i
-.PHONY : PE2/1718S1/q2.i
+Exam/main.i: Exam/main.c.i
+.PHONY : Exam/main.i
 
 # target to preprocess a source file
-PE2/1718S1/q2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.i
-.PHONY : PE2/1718S1/q2.c.i
+Exam/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.i
+.PHONY : Exam/main.c.i
 
-PE2/1718S1/q2.s: PE2/1718S1/q2.c.s
-.PHONY : PE2/1718S1/q2.s
+Exam/main.s: Exam/main.c.s
+.PHONY : Exam/main.s
 
 # target to generate assembly for a file
-PE2/1718S1/q2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/PE2/1718S1/q2.c.s
-.PHONY : PE2/1718S1/q2.c.s
+Exam/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Exam/main.c.s
+.PHONY : Exam/main.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... PE2/1718S1/q2.o"
-	@echo "... PE2/1718S1/q2.i"
-	@echo "... PE2/1718S1/q2.s"
+	@echo "... Exam/main.o"
+	@echo "... Exam/main.i"
+	@echo "... Exam/main.s"
 .PHONY : help
 
 
